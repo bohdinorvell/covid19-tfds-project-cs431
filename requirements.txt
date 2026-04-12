@@ -1,0 +1,9 @@
+# Python Dependencies
+pandas
+numpy
+matplotlib
+seaborn
+requests
+tensorflow
+tensorflow-datasets
+scipy
