@@ -1,20 +1,17 @@
-# covid19-tfds-project-cs431
-COVID-19 Data Engineering and Exploratory Analysis Using TensorFlow Datasets API
-
 # COVID-19 TensorFlow Dataset Pipeline
 
-A data engineering and analysis project for Intro to Big Data (UNR).
+A data engineering and analysis project for CS 431 - Intro to Big Data (UNR).
 
 ## Overview
 Cleans and consolidates the Johns Hopkins CSSE COVID-19 time-series dataset
 and constructs a TensorFlow-ready dataset using the TensorFlow Datasets API.
-Includes statistical analysis and visualization of global pandemic trends.
+Including various statistical analysis methods and visualization of the Covid-19 global pandemic trends.
 
 ## Data Source
 Johns Hopkins CSSE: https://github.com/CSSEGISandData/COVID-19
 
 ## Tools
-Python, Pandas, NumPy, TensorFlow Datasets, Matplotlib, Seaborn
+Python, Pandas, NumPy, TensorFlow Datasets, Matplotlib, Seaborn, scipy
 
 ## Structure
 notebooks/ - Jupyter/Colab notebooks
